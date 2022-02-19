@@ -10,7 +10,7 @@ contract GoldenMan is ERC721, Ownable
 {
   using Counters for Counters.Counter;
   using Strings for uint256;
-  string uri = "https://gateway.pinata.cloud/ipfs/QmaW5LWtgmAAd8W3Hb71QyAp9mhjMw1sgopuUBSRLXhuSD/";
+  string uri = "https://gateway.pinata.cloud/ipfs/QmPavxTK7wupYAgCDApK6QoAVaSth6ckk2kH6u1sALEJKe/";
   Counters.Counter private _tokenIdCounter;
 
 
